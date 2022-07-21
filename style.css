@@ -1,0 +1,12 @@
+.img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+    
+}
+.first, .second {
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
